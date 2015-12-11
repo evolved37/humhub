@@ -17,35 +17,35 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Account Request for \'{displayName}\' has been approved.' => '',
-    'Account Request for \'{displayName}\' has been declined.' => '',
+    'Account Request for \'{displayName}\' has been approved.' => 'L\'account \'{displayName}\' è stato approvato.',
+    'Account Request for \'{displayName}\' has been declined.' => 'L\'account \'{displayName}\' non è stato approvato.',
     'Hello {displayName},<br><br>
 
-   your account has been activated.<br><br>
+   il tuo accont è stato attivato.<br><br>
 
-   Click here to login:<br>
+   Clicca qui per il login:<br>
    <a href=\'{loginURL}\'>{loginURL}</a><br><br>
 
    Kind Regards<br>
    {AdminName}<br><br>' => '',
-    'Hello {displayName},<br><br>
+    'Ciao {displayName},<br><br>
 
-   your account request has been declined.<br><br>
+   la tua richiesta è stata rifiutata.<br><br>
 
    Kind Regards<br>
    {AdminName}<br><br>' => '',
-    'Hello {displayName},<br><br>
+    'Ciao {displayName},<br><br>
   
-   your account has been activated.<br><br> 
+   il tuo account è stato attivato.<br><br> 
    
-   Click here to login:<br>
+   Clicca qui per il login:<br>
    <a href=\'{loginURL}\'>{loginURL}</a><br><br>
    
    Kind Regards<br>
    {AdminName}<br><br>' => '@@@@',
-    'Hello {displayName},<br><br>
+    'Ciao {displayName},<br><br>
   
-   your account request has been declined.<br><br> 
+   la richiesta del tuo account non è stata approvata.<br><br> 
       
    Kind Regards<br>
    {AdminName}<br><br>' => '@@@@',
