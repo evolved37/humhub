@@ -17,8 +17,8 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Account Request for \'{displayName}\' has been approved.' => '',
-    'Account Request for \'{displayName}\' has been declined.' => '',
+    'Account Request for \'{displayName}\' has been approved.' => 'Richiesta account per \'{displayName}\' è stata approvata.',
+    'Account Request for \'{displayName}\' has been declined.' => 'Richiesta account per \'{displayName}\' è stata rifiutata.',
     'Hello {displayName},<br><br>
 
    your account has been activated.<br><br>
