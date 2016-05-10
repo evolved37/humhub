@@ -27,7 +27,7 @@ $this->pageTitle = Yii::t('UserModule.views_auth_login', 'Login');
             <?php echo $form->field($model, 'password')->passwordInput(['id' => 'login_password', 'placeholder' => Yii::t('UserModule.views_auth_login', 'password')]); ?>
 
 
-            <?php echo $form->field($model, 'rememberMe')->checkbox(); ?>
+            <?php echo $form->field($model, 'rememberMe')->checkbox('label' => Yii::t('UserModule.views_auth_login', 'remember Me'); ?>
 
             <hr>
             <div class="row">
